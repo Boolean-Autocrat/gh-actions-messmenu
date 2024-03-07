@@ -18,7 +18,13 @@ jobs:
         run: |
           curl -o messmenu.json https://ssmssunoff.vercel.app/messmenu.json
 
+      - name: Check for changes
+        id: check
+        run: |
+          git diff --exit-code || echo "::set-output name=changed::true"
+
       - name: Commit changes
+        if: steps.check.outputs.changed == 'true'
         run: |
           git config --global user.email "github-actions@github.com"
           git config --global user.name "GitHub Actions"
