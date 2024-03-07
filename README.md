@@ -1,1 +1,1 @@
-This repository is meant to act as a store for `messmenu.json`. A Github Action runs daily which updates this menu by calling an API. I then use thi JSON on PythonAnywhere since Github is white-listed there.
+This repository is meant to act as a store for `messmenu.json`. A Github Action runs daily which updates this menu by calling an API. I then call this json file on PythonAnywhere since Github is white-listed there.
