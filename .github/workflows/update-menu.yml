@@ -2,7 +2,7 @@ name: Update BITSP Menu JSON
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "30 15 * * *"
 
   workflow_dispatch:
 
