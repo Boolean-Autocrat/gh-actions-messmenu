@@ -2,7 +2,7 @@ name: Update BITSP Menu JSON
 
 on:
   schedule:
-    - cron: "33 14 * * *"
+    - cron: "40 14 * * *"
 
 jobs:
   update-menu:
