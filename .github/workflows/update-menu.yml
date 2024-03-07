@@ -1,0 +1,25 @@
+name: Update BITSP Menu JSON
+
+on:
+  schedule:
+    - cron: "0 20 * * *"
+
+jobs:
+  update-menu:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Download JSON
+        run: |
+          curl -o messmenu.json https://ssmssunoff.vercel.app/messmenu.json
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add messmenu.json
+          git commit -m "[refactor] Update menu [skip ci]"
+          git push
