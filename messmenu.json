@@ -1,73 +1,41 @@
 [
   {
-    "date": "01-Mar-24",
+    "date": "16-Mar-24",
     "breakfast": [
       "CHOICE OF EGG",
       "CORNFLAKES",
       "BREAD +JAM",
-      "MASALA S/W ",
-      "TOMATO KETCHUP ",
+      "COLESLAW S/W ",
+      "TOMATO KETCHUP",
       "SWEET DALIYA",
       "ORANGE",
-      "TEA+ COFFEE",
-      "Milk"
-    ],
-    "lunch": [
-      "BHEL POORI",
-      "BAINGAN BHARTHA",
-      "VEG KOFTY  CURRY",
-      "DAL LAHSUNI",
-      "CHAPATI",
-      "PLAIN  RICE",
-      "SAMBAR",
-      "SHIKANJI"
-    ],
-    "dinner": [
-      "LEMON + ONION",
-      "KHATTA MEETHA PUMPKIN'",
-      "CHOLE  MASALA",
-      "BHATUREY / CHAPATI",
-      "JEERA RICE",
-      "SEEVIYAA KHEER "
-    ],
-    "grub": false,
-    "grub_meal": ""
-  },
-  {
-    "date": "02-Mar-24",
-    "breakfast": [
-      "CHOICE OF EGG",
-      "CORNFLAKES",
-      "BREAD +JAM",
-      "SUJI UPMA",
-      "ADRAK CHUTNEY",
-      "PAPAPYA",
-      "TEA+ COFFEE",
+      "TEA+ COFFEE+BV",
       "Milk"
     ],
     "lunch": [
       "GREEN CHUTNEY",
-      "HARA BHARA KABAB",
+      "CORN TIKKI",
       "KALA CHANA MASALA",
       "CURD /BUTTER",
-      "MIX VEG PARATHA",
+      "ALOO PYAJ PARATHA",
       "PLAIN  RICE",
       "SAMBAR",
-      "RASNA"
+      "KHUSH SARBAT"
     ],
     "dinner": [
       "GREEN SALAD",
-      "ALOO GOBHI ADRAKI",
+      "ALOO GOBHI MUTTER ( SEMI GRAVY)",
       "DHABA DAL ",
       "CHAPATI",
       "PLAIN RICE",
-      "RASAM"
+      "RASAM",
+      "RICE PHIRNI"
     ],
     "grub": false,
     "grub_meal": ""
   },
   {
-    "date": "03-Mar-24",
+    "date": "17-Mar-24",
     "breakfast": [
       "CHOICE OF EGG",
       "CORNFLAKES",
@@ -75,23 +43,23 @@
       "MASALA DOSA",
       "SAMBHAR",
       "COCONUT CHUTNEY",
-      "APPLE",
-      "TEA+ COFFEE",
+      "PAPAYA",
+      "TEA+ COFFEE+BV",
       "Milk"
     ],
     "lunch": [
       "ONION SALAD",
-      "DHABA PANEER",
+      "MUTTER PANEER",
       "CHICKEN CURRY ",
-      "VEG BIRYANI ",
+      "DUM BRIYANI",
       "NAAN / CHAPATI",
-      "MIX VEG RAITA",
-      "CHOCOLATE I/C"
+      "ONION RAITA",
+      "ICE TEA"
     ],
     "dinner": [
-      "GREEN SALAD ",
-      "LOBIYA MASALA",
-      "DAL LASOONI",
+      "ALOO CHANNA CHAAT ",
+      "SEV TOMATO ",
+      "DAL PANCHRATAN",
       "CHAPATI",
       "PLAIN RICE",
       "RASAM"
@@ -100,27 +68,27 @@
     "grub_meal": ""
   },
   {
-    "date": "04-Mar-24",
+    "date": "18-Mar-24",
     "breakfast": [
       "CHOICE OF EGG",
       "CORNFLAKES",
       "BREAD +JAM",
-      "PURI",
-      "ALOO BHAJI",
+      "POHA",
+      "SEV",
       "LEMON + ONION",
-      "GRAPES",
-      "TEA+ COFFEE",
+      "WATERMELON",
+      "TEA+ COFFEE+BV",
       "Milk"
     ],
     "lunch": [
-      "GREEN SALAD",
-      "CAPSICUM PITLA",
-      "RAJAM MASALA",
+      "MACARONI SALAD",
+      "CABBAGE PORIYAL",
+      "RAJAMA MASALA",
       "DAL TADKA ",
       "CHAPATI",
       "PLAIN  RICE",
       "SAMBAR",
-      "SWEET LASSI "
+      "CHOCOLATE I/C"
     ],
     "dinner": [
       "LEMON + LEMON",
@@ -134,51 +102,51 @@
     "grub_meal": ""
   },
   {
-    "date": "05-Mar-24",
+    "date": "19-Mar-24",
     "breakfast": [
-      "NO EGG",
+      "MOONG SPROUT SALAD",
       "CORNFLAKES",
       "BREAD +JAM",
       "ALOO PARATHA",
       "CURD",
       "PICKEL",
-      "BANANA",
-      "TEA+ COFFEE",
+      "GRAPES",
+      "TEA+ COFFEE+BV",
       "Milk"
     ],
     "lunch": [
-      "MACARONI SALAD",
-      "KATHAL MASALA",
-      "VEG KORMA",
-      "MOONG DAL TADKA",
+      "GREEN SALAD",
+      "CORN CAPSICUM",
+      "VEG KOFTA CURRY",
+      "CHANA DAL TADKA",
       "CHAPATI",
       "PLAIN  RICE",
       "SAMBAR",
-      "LITCHI SHERBET"
+      "SWEET LASSI "
     ],
     "dinner": [
       "LEMON + ONION",
-      "KHATTA MEETHA PUMPKIN'",
-      "CHOLE  MASALA",
-      "PURI / CHAPATI",
+      "KHATTA MEETHA PUMPKIN",
+      "ALOO TAMATAR RASSA ",
+      "PURI  / CHAPATI",
       "JEERA RICE",
-      "JEERA  RAITA",
-      "SWEET BOONDI"
+      "BURANI    RAITA",
+      "BOONDI LADOO "
     ],
     "grub": false,
     "grub_meal": ""
   },
   {
-    "date": "06-Mar-24",
+    "date": "20-Mar-24",
     "breakfast": [
       "CHOICE OF EGG",
       "CORNFLAKES",
       "BREAD +JAM",
-      "MOONG DAL CHILLA",
-      "GREEN CHUTNEY",
-      "LEMON + ONION",
-      "PINEAPPLE",
-      "TEA+ COFFEE",
+      "MISAL",
+      "PAV",
+      "LEMON+ ONION",
+      "BANANA",
+      "TEA+ COFFEE+BV",
       "Milk"
     ],
     "lunch": [
@@ -186,12 +154,12 @@
       "KADHAI PANEER ",
       "CHICKEN MASALA ",
       "CHAPATI",
-      "VEG PULAO",
-      "ONION MINT RAITA",
-      "COOKIES \u0026 CREAM "
+      "PEASE PULAO",
+      "CUCUMBER RAITA",
+      "TANG"
     ],
     "dinner": [
-      "ALOO CHANA CHAAT",
+      "GREEN SALAD",
       "DUM ALOO ",
       "DAL FRY ",
       "CHAPATI",
@@ -202,205 +170,7 @@
     "grub_meal": ""
   },
   {
-    "date": "07-Mar-24",
-    "breakfast": [
-      "CHOICE OF EGG",
-      "CORNFLAKES",
-      "BREAD +JAM",
-      "POHA",
-      "SEV",
-      "LEMON + ONION",
-      "ORANGE",
-      "TEA+ COFFEE",
-      "Milk"
-    ],
-    "lunch": [
-      "FRYMS",
-      "ALOO HARA PYAAZ",
-      "KADHI PAKODA",
-      "VEG KHICHDI",
-      "CHAPATI",
-      "PLAIN  RICE",
-      "SAMBHAR",
-      "ROOH AFZA"
-    ],
-    "dinner": [
-      "MIX SALAD",
-      "VEG MANCHURIAN",
-      "BLACK MASOOR DAL",
-      "EGG FRIED RICE / VEG FRIED RICE/VEG HAKKA NOODLES",
-      "CHAPATI",
-      "FRUIT CUSTARD"
-    ],
-    "grub": false,
-    "grub_meal": ""
-  },
-  {
-    "date": "08-Mar-24",
-    "breakfast": [
-      "NO EGG",
-      "CORNFLAKES",
-      "BREAD +JAM",
-      "MISAL",
-      "PAV",
-      "LEMON+ ONION",
-      "PAPAPYA",
-      "TEA+ COFFEE",
-      "Milk"
-    ],
-    "lunch": [
-      "THANDAI"
-    ],
-    "dinner": [
-      "GREEN SALAD",
-      "ALOO MUTTTER TAMATAR",
-      "ARHAR DAL TADKA",
-      "CHAPATI",
-      "PLAIN  RICE",
-      "BURANI    RAITA"
-    ],
-    "grub": false,
-    "grub_meal": ""
-  },
-  {
-    "date": "09-Mar-24",
-    "breakfast": [
-      "CHOICE OF EGG",
-      "CORNFLAKES",
-      "BREAD +JAM",
-      "IDLI / SAUTEE IDLI",
-      "SAMBHAR",
-      "COCONUT CHUTNEY",
-      "APPLE",
-      "TEA+ COFFEE",
-      "Milk"
-    ],
-    "lunch": [
-      "TOMATO KETCHUP",
-      "MIX BHAJIYA",
-      "RAGDA MUTTER",
-      "CURD /BUTTER",
-      "MIX VEG PARATHA",
-      "PLAIN  RICE",
-      "SAMBAR",
-      "KHUS SHAEBET"
-    ],
-    "dinner": [
-      "GREEN SALAD",
-      "MIX VEG ",
-      "BUTTER DAL TADKA",
-      "CHAPATI",
-      "PLAIN  RICE",
-      "RASAM",
-      "BESAN  BURFI  "
-    ],
-    "grub": false,
-    "grub_meal": ""
-  },
-  {
-    "date": "10-Mar-24",
-    "breakfast": [
-      "CHOICE OF EGG",
-      "CORNFLAKES",
-      "BREAD +JAM",
-      "MUTTER KULCHA",
-      "KULCHA",
-      "CUT ONION LEMON",
-      "GRAPES",
-      "TEA+ COFFEE",
-      "Milk"
-    ],
-    "lunch": [
-      "ONION SALAD",
-      "SAHI PANEER ",
-      "BUTTER CHICKEN ",
-      "BIRYANI RICE",
-      "NAAN / CHAPATI",
-      "BOONDI RAITA",
-      "BUTTER SCOTCH I/C"
-    ],
-    "dinner": [
-      "PASTA SALAD",
-      "GUTTA CURRY",
-      "RED MASOOR TADKA",
-      "CHAPATI",
-      "PLAIN  RICE",
-      "RASAM"
-    ],
-    "grub": false,
-    "grub_meal": ""
-  },
-  {
-    "date": "11-Mar-24",
-    "breakfast": [
-      "CHOICE OF EGG",
-      "CORNFLAKES",
-      "BREAD +JAM",
-      "MASALA S/W",
-      "TOMATO KETCHUP",
-      "SWEET DALIYA",
-      "BANANA",
-      "TEA+ COFFEE",
-      "Milk"
-    ],
-    "lunch": [
-      "BHEL PURI",
-      "DAHI ARVI",
-      "RAJMA MASALA",
-      "DAL TADKA",
-      "CHAPATI",
-      "PLAIN  RICE",
-      "SAMBAR",
-      "MANGO LASSI "
-    ],
-    "dinner": [
-      "LEMON + LEMON",
-      "BHAJI",
-      "DAL TADKA",
-      "PAV/ CHAPATI",
-      "PLAIN  RICE",
-      "RASAM"
-    ],
-    "grub": false,
-    "grub_meal": ""
-  },
-  {
-    "date": "12-Mar-24",
-    "breakfast": [
-      "NO EGG",
-      "CORNFLAKES",
-      "BREAD +JAM",
-      "TIKONA MASALA PARATHA",
-      "ALOO RASSA",
-      "PICKEL",
-      "PINEAPPLE",
-      "TEA+ COFFEE",
-      "Milk"
-    ],
-    "lunch": [
-      "PAPADI CHAAT",
-      "TINDA MASALA",
-      "CORN PALAK",
-      "DAL PANCHRATAN",
-      "CHAPATI",
-      "PLAIN  RICE",
-      "SAMBAR",
-      "MASALA CHACCH"
-    ],
-    "dinner": [
-      "MAIRCHI TAPOOREY / LAHSUN CHUTNEY",
-      "ALOO RASSA",
-      "BATTI ",
-      "DAL TADKA",
-      "CHAPATI",
-      "PLAIN RICE",
-      "CHOORMA"
-    ],
-    "grub": false,
-    "grub_meal": ""
-  },
-  {
-    "date": "13-Mar-24",
+    "date": "21-Mar-24",
     "breakfast": [
       "CHOICE OF EGG",
       "CORNFLAKES",
@@ -408,8 +178,199 @@
       "ONION TOMATO UTAPPAM",
       "SAMBHAR",
       "COCONUT CHUTNEY",
-      "SHARDA",
-      "TEA+ COFFEE",
+      "PINEAPPLE",
+      "TEA+ COFFEE+BV",
+      "Milk"
+    ],
+    "lunch": [
+      "ROASTED PAPAD",
+      "ALOO DO PIYAZA",
+      "KADHI PAKODA",
+      "VEG KHICHDI",
+      "CHAPATI",
+      "PLAIN  RICE",
+      "SAMBHAR",
+      "COOKIES \u0026 CREAM "
+    ],
+    "dinner": [
+      "GREEN SALAD",
+      "VEG KORMA",
+      "ARHAR DAL TADKA",
+      "CHAPATI",
+      "PLAIN RICE",
+      "RASAM"
+    ],
+    "grub": false,
+    "grub_meal": ""
+  },
+  {
+    "date": "22-Mar-24",
+    "breakfast": [
+      "CHOICE OF EGG",
+      "CORNFLAKES",
+      "BREAD +JAM",
+      "TIKONA PARATHA",
+      "ALOO BHAJI",
+      "LEMON+ ONION",
+      "HONEY DEW",
+      "TEA+ COFFEE+BV",
+      "Milk"
+    ],
+    "lunch": [
+      "MIX SALAD",
+      "TINDA MASALA",
+      "RAJMA MASALA",
+      "DAL TADKA",
+      "CHAPATI",
+      "PLAIN  RICE",
+      "SAMBHAR",
+      "SWEET LASSI"
+    ],
+    "dinner": [
+      "CORN SALAD",
+      "VEG MANCHURIAN",
+      "MOONG DAL TADKA",
+      "EGG FRIED RICE / VEG FRIED RICE/",
+      "CHAPATI",
+      "FRUIT CUSTARD"
+    ],
+    "grub": false,
+    "grub_meal": ""
+  },
+  {
+    "date": "23-Mar-24",
+    "breakfast": [
+      "CHOICE OF EGG",
+      "CORNFLAKES",
+      "BREAD +JAM",
+      "SUJI UPMA",
+      "ADRAK CHUTNEY",
+      "TOMATO KETCHUP",
+      "PAPAPYA",
+      "TEA+ COFFEE+BV",
+      "Milk"
+    ],
+    "lunch": [
+      "VEG BULLET",
+      "TOMATO KETCHUP",
+      "RAGDA MUTTER",
+      "CURD /BUTTER",
+      "ALOO GOBHI PARATHA",
+      "PLAIN  RICE",
+      "SAMBAR",
+      "MINT COOLER"
+    ],
+    "dinner": [
+      "GREEN SALAD",
+      "ALOO MUTTER TAMATAR",
+      "BLACK MASOOR TADKA",
+      "CHAPATI",
+      "PLAIN  RICE"
+    ],
+    "grub": false,
+    "grub_meal": ""
+  },
+  {
+    "date": "24-Mar-24",
+    "breakfast": [
+      "CHOICE OF EGG",
+      "CORNFLAKES",
+      "BREAD +JAM",
+      "CHOOLEY",
+      "KULCHA",
+      "CUT ONION LEMON",
+      "ORANGE",
+      "TEA+ COFFEE+BV",
+      "Milk"
+    ],
+    "lunch": [
+      "ONION SALAD",
+      "PANEER LAHORI",
+      "BUTTER CHICKEN ",
+      "BIRYANI RICE",
+      "NAAN / CHAPATI",
+      "BOONDI RAITA",
+      "CHOCO CHIP I/C"
+    ],
+    "dinner": [
+      "GREEN SALAD",
+      "METHI MUTTER MALAI ",
+      "BUTTER DAL TADKA",
+      "CHAPATI",
+      "PLAIN  RICE",
+      "RASAM"
+    ],
+    "grub": false,
+    "grub_meal": ""
+  },
+  {
+    "date": "25-Mar-24",
+    "breakfast": [
+      "CHOICE OF EGG",
+      "CORNFLAKES",
+      "BREAD +JAM",
+      "MASALA S/W",
+      "TOMATO KETCHUP",
+      "SWEET DALIYA",
+      "GRAPES",
+      "TEA+ COFFEE+BV",
+      "Milk"
+    ],
+    "lunch": [
+      "LUNCH"
+    ],
+    "dinner": [
+      "HAPPY HOLI"
+    ],
+    "grub": false,
+    "grub_meal": ""
+  },
+  {
+    "date": "26-Mar-24",
+    "breakfast": [
+      "KALA CHANNA SPROUT",
+      "CORNFLAKES",
+      "BREAD +JAM",
+      "MIX VEG PARATHA",
+      "CURD",
+      "PICKEL",
+      "BANANA",
+      "TEA+ COFFEE+BV",
+      "Milk"
+    ],
+    "lunch": [
+      "GREEN SALAD",
+      "CAPSICUM PITLA",
+      "RAW BANANA KOFTA CURRY",
+      "DHABA DAL ",
+      "CHAPATI",
+      "PLAIN  RICE",
+      "SAMBAR",
+      "SHIKANJI"
+    ],
+    "dinner": [
+      "LEMON + ONION",
+      "JEERA ALOO ",
+      "CHOLE  MASALA",
+      "PURI  / CHAPATI",
+      "PLAIN RICE",
+      "RASAM",
+      "GULAB JAMUN"
+    ],
+    "grub": false,
+    "grub_meal": ""
+  },
+  {
+    "date": "27-Mar-24",
+    "breakfast": [
+      "CHOICE OF EGG",
+      "CORNFLAKES",
+      "BREAD +JAM",
+      "MYSORE BONDA",
+      "ADRAK  CHUTNEY",
+      "SWEET  DALIYA ",
+      "PINEAPPLE",
+      "TEA+ COFFEE+BV",
       "Milk"
     ],
     "lunch": [
@@ -419,12 +380,113 @@
       "CHAPATI",
       "PLAIN  RICE",
       "PINE APPLE RAITA",
+      "MINT COOLER"
+    ],
+    "dinner": [
+      "GREEN SALAD",
+      "KADHAI VEG ",
+      "DAL TADKA",
+      "CHAPATI",
+      "PLAIN RICE",
+      "RASAM"
+    ],
+    "grub": false,
+    "grub_meal": ""
+  },
+  {
+    "date": "28-Mar-24",
+    "breakfast": [
+      "CHOICE OF EGG",
+      "CORNFLAKES",
+      "BREAD +JAM",
+      "POHA",
+      "SEV",
+      "LEMON + ONION",
+      "WATER MELON",
+      "TEA+ COFFEE+BV",
+      "Milk"
+    ],
+    "lunch": [
+      "FRYMS",
+      "MADRASI ALOO ",
+      "ONION KADHI",
+      "MASALA KHINCHADI",
+      "CHAPATI",
+      "PLAIN  RICE",
+      "SAMBHAR",
       "TUTTY FRUITY I/C"
+    ],
+    "dinner": [
+      "PAPDI CHAT",
+      "SOYA CHAAP MASALA",
+      "DAL MASALA",
+      "CHAPATI",
+      "ONION RICE",
+      "ONION RAITA"
+    ],
+    "grub": false,
+    "grub_meal": ""
+  },
+  {
+    "date": "29-Mar-24",
+    "breakfast": [
+      "CHOICE OF EGG",
+      "CORNFLAKES",
+      "BREAD +JAM",
+      "RAWA IDLI",
+      "SAMBHAR",
+      "COCONUT CHUTNEY",
+      "GRAPES",
+      "TEA+ COFFEE+BV",
+      "Milk"
+    ],
+    "lunch": [
+      "BHEL PURI",
+      "BAINGAN BHARTHA",
+      "RAJAM MASALA",
+      "DAL LAHSHUNI",
+      "CHAPATI",
+      "PLAIN  RICE",
+      "SAMBAR",
+      "MASALA CHACCH"
+    ],
+    "dinner": [
+      "GREEN SALAD",
+      "WHITE SAUCE PASTA",
+      "MOONG DAL TADKA",
+      "CHAPATI",
+      "PLAIN RICE",
+      "RASAM"
+    ],
+    "grub": false,
+    "grub_meal": ""
+  },
+  {
+    "date": "30-Mar-24",
+    "breakfast": [
+      "CHOICE OF EGG",
+      "CORNFLAKES",
+      "BREAD +JAM",
+      "SEVIYA UPMA",
+      "ADRAK  CHUTNEY",
+      "BANANA",
+      "TEA+ COFFEE+BV",
+      "Milk"
+    ],
+    "lunch": [
+      "GREEN CHUTNEY",
+      "CORN TIKKI",
+      "KALA CHANA MASALA",
+      "CURD /BUTTER",
+      "MIX VEG PARATHA",
+      "PLAIN  RICE",
+      "SAMBAR",
+      "BUTTER SCOTCH I/C"
     ],
     "dinner": [
       "GREEN SALAD",
       "VEG DIWANI HANDI",
-      "DAL MASALA",
+      "DAL MAHARANI ",
       "CHAPATI",
       "PLAIN  RICE",
       "RASAM"
@@ -433,70 +495,35 @@
     "grub_meal": ""
   },
   {
-    "date": "14-Mar-24",
+    "date": "31-Mar-24",
     "breakfast": [
       "CHOICE OF EGG",
       "CORNFLAKES",
       "BREAD +JAM",
-      "POHA",
-      "SEV",
-      "LEMON + ONION",
-      "GRAPES",
-      "TEA+ COFFEE",
+      "MASALA DOSA",
+      "SAMBHAR",
+      "COCONUT CHUTNEY",
+      "WATER MELON",
+      "TEA+ COFFEE+BV",
       "Milk"
     ],
     "lunch": [
-      "FRYM ",
-      "ACHARI ALOO",
-      "PAKODA KADHI",
-      "CURD RICE",
-      "CHAPATI",
-      "PLAIN  RICE",
-      "SAMBAR",
-      "MINT COOLER"
+      "ONION SALAD",
+      "PANEER MAKHANI ",
+      "CHICKEN LAHORI",
+      "BIRYANI RICE",
+      "NAAN / CHAPATI",
+      "BOONDI RAITA",
+      "ROOH AFZA"
     ],
     "dinner": [
       "GREEN SALAD",
-      "SOYA CHAAP MASALA",
-      "AARHAR DAL TADKA",
+      "ALOO MUTTER RASSA",
+      "DAL TADKA",
       "CHAPATI",
       "PLAIN  RICE",
       "RASAM",
-      "GULAB JAMUN"
-    ],
-    "grub": false,
-    "grub_meal": ""
-  },
-  {
-    "date": "15-Mar-24",
-    "breakfast": [
-      "CHOICE OF EGG",
-      "CORNFLAKES",
-      "BREAD +JAM",
-      "PUNU GULLU",
-      "ADRAK CHUTNEY",
-      "SWEET DALIYA",
-      "BANANA",
-      "TEA+ COFFEE",
-      "Milk"
-    ],
-    "lunch": [
-      "CORN SALAD",
-      "CABBAGE MUTTER ",
-      "GUTTA CURRY ",
-      "CHANA DAL TADKA",
-      "CHAPATI",
-      "PLAIN  RICE",
-      "SAMBAR",
-      "SWEET LASSI "
-    ],
-    "dinner": [
-      "LEMON + ONION",
-      "KHATTA MEETA PUMPKIN",
-      "CHOLE  MASALA",
-      "BHATURE / CHAPATI",
-      "JEERA RICE",
-      "BOONDI RAITA"
+      "COCONUT BURFI"
     ],
     "grub": false,
     "grub_meal": ""
