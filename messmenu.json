@@ -13,14 +13,12 @@
       "Milk"
     ],
     "lunch": [
-      "FRYMS",
-      "MADRASI ALOO",
-      "KADHI PAKODA",
-      "VEG KHICHDI",
+      "ONION SALAD",
+      "PANEER LABABDAR",
+      "CHICKEN HOME STYLE",
       "CHAPATI",
-      "PLAIN  RICE",
-      "SAMBHAR",
-      "ROSE LEMONADE"
+      "VEG PULAO",
+      "ONION MINT RAITA"
     ],
     "dinner": [
       "MIX SALAD",
@@ -81,12 +79,14 @@
       "Milk"
     ],
     "lunch": [
-      "ONION SALAD",
-      "PANEER LABABDAR",
-      "CHICKEN HOME STYLE",
+      "FRYMS",
+      "MADRASI ALOO",
+      "KADHI PAKODA",
+      "VEG KHICHDI",
       "CHAPATI",
-      "VEG PULAO",
-      "ONION MINT RAITA"
+      "PLAIN  RICE",
+      "SAMBHAR",
+      "ROSE LEMONADE"
     ],
     "dinner": [
       "ALOO CHANA CHAAT",
@@ -230,8 +230,8 @@
       "PASTA SALAD",
       "DUM ALOO",
       "DAL PALAK",
-      "PLAIN RICE",
       "CHAPATI",
+      "PLAIN RICE",
       "RASAM"
     ],
     "grub": false,
@@ -326,8 +326,8 @@
       "BHEL PURI",
       "VEG PASTA IN WHITE SAUCE",
       "DHABA DAL",
-      "PLAIN RICE",
       "CHAPATI",
+      "PLAIN RICE",
       "RASAM",
       "FRUIT CUSTERD"
     ],
@@ -395,8 +395,8 @@
       "ONION SALAD",
       "SOYA  CHAAP MASALA",
       "DAL MAKHANI",
-      "PLAIN RICE",
       "CHAPATI",
+      "PLAIN RICE",
       "RASAM",
       "GULAB JAMUN"
     ],
