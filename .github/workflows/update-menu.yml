@@ -1,9 +1,6 @@
 name: Update BITSP Menu JSON
 
 on:
-  schedule:
-    - cron: "30 15 * * *"
-
   workflow_dispatch:
 
 jobs:
